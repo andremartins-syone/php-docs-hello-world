@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello $appname";
+echo "Hello ("$appname");

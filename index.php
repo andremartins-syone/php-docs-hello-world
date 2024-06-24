@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello $"app-name"!";
+echo "Hello!";
 ?>
